@@ -12,7 +12,7 @@
 #include <LoRa.h>
 
 // --- USER CONFIG ---
-#define SMS_TARGET "+918247567314"  // <--- PUT YOUR PHONE NUMBER HERE
+#define SMS_TARGET ""  // <--- PUT YOUR PHONE NUMBER HERE
 #define LORA_BAND  433E6           
 
 // --- PIN DEFINITIONS (AM036 / T-Call) ---
